@@ -1,2 +1,3 @@
 # SAVIS
-Study Assistant for visually impaired students
+# Smart Book
+# Project aims to assist visually impaired students
