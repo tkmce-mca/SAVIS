@@ -1,3 +1,6 @@
 # SAVIS
-# Smart Book
-# Project aims to assist visually impaired students
+
+# Installed Ananconda
+# Pycharm
+# Python
+# Github desktop
