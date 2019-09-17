@@ -28,4 +28,18 @@ Plans for the current week
 Open issues
 -Trouble in apply sound in django environment
 
+# 17-09-2019
+# ------weekly update---------
 
+Current status
+- Designed home page and other pages
+- Completed voice bot coding.
+- working on contents of website,logo,titles etc.
+-completed youtube and website url parsing
+
+Plans for the current week
+- planned to create a interactive UI environment for voice bot
+- Graphic designs
+
+Open issues
+- there is no current issues
